@@ -1,5 +1,8 @@
-body {
-  background-color: #212121;
+* {
+  margin: 0;
+  padding: 0;
+}
+ody {
   box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   overflow: hidden;
@@ -35,7 +38,6 @@ body {
   font-weight: bold;
   margin-bottom: 6px;
   width: 100%;
-  
 }
 .digittext_container span {
   margin: 5px;
